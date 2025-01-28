@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a egg catching 2.5D game for casual website or mobile gamers.<br>Willing collaborate on Game projects and AI projects.<br> Actively searching for any opportunities into Game industry.<br>Currently learning pixel graphics and combat combo mechanics<br>You can ask me about game design, game mechanics, story direction, AI models, training, prediction and Computer vision.<br>Fun Fact: I am a sponge to knowledge, i learn faster and adapt quicker and faster to draw analogies and work in similar projects. 
+I'm currently working on a egg catching 2D game for casual website or mobile gamers.<br>Willing collaborate on Game projects and AI projects.<br> Actively searching for any opportunities into Game industry.<br>Currently learning pixel graphics and combat combo mechanics<br>You can ask me about game design, game mechanics, story direction, AI models, training, prediction and Computer vision.<br>Fun Fact: I am a sponge to knowledge, i learn faster and adapt quicker and faster to draw analogies and work in similar projects. 
 
 
 ## 🌐 Socials:
